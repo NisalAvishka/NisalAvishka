@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Nisal Balasooriya<br>I'm a passionate Full-Stack Developer with a strong focus on JavaScript and TypeScript, specializing in Next.js and React.js. My development journey is fueled by a love for crafting dynamic, responsive, and scalable applications that perform seamlessly across platforms.
+Hi there! 👋 I'm Nisal Balasooriya<br>I'm a passionate Full-Stack Developer with a strong focus on JavaScript and TypeScript, specializing in Next.js, Node.js, Express.js, and React.js. My development journey is fueled by a love for crafting dynamic, responsive, and scalable applications that perform seamlessly across platforms.
 
 
 ## 🌐 Socials:
